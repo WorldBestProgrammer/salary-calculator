@@ -7,8 +7,8 @@ import org.repository.EmployeeRepository;
 import org.repository.EmployeeType;
 
 public class SalaryController {
-    EmployeeRepository employeeRepository;
-    SalaryCalculator salaryCalculator;
+    private final EmployeeRepository employeeRepository;
+    private SalaryCalculator salaryCalculator;
 
     public SalaryController(EmployeeRepository employeeRepository) {
         this.employeeRepository = employeeRepository;

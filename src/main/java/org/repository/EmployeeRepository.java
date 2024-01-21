@@ -3,9 +3,9 @@ package org.repository;
 import java.util.HashMap;
 
 public class EmployeeRepository {
-    HashMap<String, Integer> pays;
-    HashMap<String, Integer> times;
-    HashMap<String, EmployeeType> employeeTypes;
+    private final HashMap<String, Integer> pays;
+    private final HashMap<String, Integer> times;
+    private final HashMap<String, EmployeeType> employeeTypes;
 
     public EmployeeRepository() {
         pays = new HashMap<>();
