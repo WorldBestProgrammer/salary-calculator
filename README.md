@@ -37,10 +37,3 @@ This project describes a simple salary calculator for full-time employee and par
 
 - Calculate the salary with employee name
 - Calculate the sum of base pays for full-time worker
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-
-### Installation
