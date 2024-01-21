@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/image.png" alt="ClassDiagram" width="800" height="400">
+<img src="images/image.png" alt="ClassDiagram" width="1000" height="500">
 This project describes a simple salary calculator for full-time employee and part-time employee.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
